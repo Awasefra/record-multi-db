@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Env file (private)
+.env
+
+# Logs folder (CSV & JSON)
+logs/
+*.log
+*.json
+*.csv
+
+# Optional debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dist/Built files (if later build steps)
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor specific
+.vscode/
+.idea/
+
+# Local scripts or temp files
+*.tmp
+*.bak
