@@ -7,7 +7,7 @@ node_modules/
 # Logs folder (CSV & JSON)
 logs/
 *.log
-*.json
+# *.json
 *.csv
 
 # Optional debug files
